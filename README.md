@@ -1,6 +1,4 @@
-# 💫 About Me: Hi! I am Sheikh Muhammad Abdullah
-
-🔭 Building robust web applications with Python and Django.<br>👯 ’m open to collaborating on open-source Python/Django projects. <br>🤝I’m eager to explore new tech (ML, AI, data science)—let’s learn together!  <br>🌱 I’m currently learning python and django framework<br>⚡ Fun fact I get bored easily
+#  Hi! I am Sheikh Muhammad Abdullah
 
 ## 🌐 Socials:
 
