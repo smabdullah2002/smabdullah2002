@@ -1,15 +1,40 @@
-#  Hi! I am Sheikh Muhammad Abdullah
+<div align="center">
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · smabdullah2002</sub></p>
+<h1>Sheikh Muhammad Abdullah</h1>
+<h2>Backend-focused full-stack engineer</h2>
+<p>Portfolio: https://smabdullah.dev/
+  
+Blog: https://blog.smabdullah.dev/</p>
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004378934688) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/_milksheikh_)
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/143162124?u=afc866719587b3cbc4056cc11b7eb33bce6e7514&amp;v=4" width="180" alt="Sheikh Muhammad Abdullah GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
 # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
