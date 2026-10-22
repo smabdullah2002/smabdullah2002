@@ -2,7 +2,6 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · smabdullah2002</sub></p>
 <h1>Sheikh Muhammad Abdullah</h1>
 <h2>Backend-focused full-stack engineer</h2>
 <p>Portfolio: https://smabdullah.dev/
