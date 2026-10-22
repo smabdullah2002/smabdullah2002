@@ -10,9 +10,6 @@
 Blog: https://blog.smabdullah.dev/</p>
 
 </td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/143162124?u=afc866719587b3cbc4056cc11b7eb33bce6e7514&amp;v=4" width="180" alt="Sheikh Muhammad Abdullah GitHub avatar" />
-</td>
 </tr>
 </table>
 </div>
